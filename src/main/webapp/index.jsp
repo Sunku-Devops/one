@@ -528,7 +528,7 @@
                         <a href="#" id="catMenuBtn"><em class="fas fa-th-large"></em> Categories <em class="fas fa-chevron-down" style="font-size:12px;"></em></a>
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
-                    <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
+                    <li><a href="#deals"><em class="fas fa-tag"></em> Hot Deals</a></li>
                     <li><a href="#about"><em class="fas fa-info-circle"></em> About</a></li>
                 </ul>
             </nav>
@@ -558,7 +558,7 @@
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Categories</a></li>
                         <li><a href="#">Trending</a></li>
-                        <li><a href="#deals">Deals</a></li>
+                        <li><a href="#deals">Hot Deals</a></li>
                         <li><a href="#about">About</a></li>
                     </ul>
                 </nav>
